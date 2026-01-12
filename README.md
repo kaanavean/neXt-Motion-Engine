@@ -1,10 +1,10 @@
-###neXt Motion Engine (XME)
+### neXt Motion Engine (XME)
 
 The neXt Motion Engine is a system that enables haptic feedback. It's specifically designed for the subwoofer, which creates a vibration thanks to low frequencies.
 
 I got this idea from Apple's Taptic Engine, which provides vibrations that are both fast and quite precise. Since the subwoofer could also achieve this when used correctly, I wanted to test it here.
 
-##Features
+## Features
 
 - Play a specific frequency for a set duration and volume.
 
@@ -16,13 +16,13 @@ I got this idea from Apple's Taptic Engine, which provides vibrations that are b
 
 - Thanks to the asynchronous method, other tasks are not affected and run in parallel.
 
-##Demo - Motion Engine
+## Demo - Motion Engine
 
 This demo is designed to showcase the features and application of the neXt Motion Engine.
 
 I may also include the option to change values ​​in the demo app without touching the code, so that those who are simply interested but lack the necessary tools can still grasp the concept.
 
-##Requirements
+## Requirements
 
 The system requires a subwoofer to generate the vibrations. The more powerful the subwoofer, the better the feedback.
 

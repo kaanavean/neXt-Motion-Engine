@@ -1,4 +1,4 @@
-### neXt Motion Engine (XME)
+# neXt Motion Engine (XME)
 
 The neXt Motion Engine is a system that enables haptic feedback. It's specifically designed for the subwoofer, which creates a vibration thanks to low frequencies.
 

@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>neXt_Motion_Engine</RootNamespace>
+    <TargetFramework>net6.0-windows</TargetFramework>
+	  <UseWindowsForms>True</UseWindowsForms>
+  </PropertyGroup>
+
+</Project>
